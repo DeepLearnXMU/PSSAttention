@@ -1,12 +1,5 @@
 # PSSAttention
 
-**This project is used as students' homework to test their reimplement abilities.**
-
-**Thus, the relevant codes are shielded for a short time (until 2022.02.01).**
-
-**Other researchers, who want to access this project, please feel free to contact us via e-mail: jssu@xmu.edu.cn and jialong2019@iscas.ac.cn.**
-
-
 Codes for # ACL2019 paper "Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis", which contains TNet-Att(+AS) and MN(+AS)
 
 and Codes for # AI 2021 paper "Enhanced Aspect-Based Sentiment Analysis Models with Progressive Self-supervised Attention Learning", which contains Bert.
